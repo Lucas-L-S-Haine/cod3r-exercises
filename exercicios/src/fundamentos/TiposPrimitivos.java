@@ -14,5 +14,11 @@ public class TiposPrimitivos {
         // Tipos numéricos reais
         float salario = 11_445.44F;
         double vendasAcumuladas = 2_991_797_103.01;
+
+        // Tipo booleano
+        boolean estaDeFerias = false; // ou true
+
+        // Tipo caractere
+        char status = 'A'; // ativo
     }
 }
